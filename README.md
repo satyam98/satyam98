@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @satyam98
+- 👀 I’m interested in Machine Learning, Web Development, Big Data Analysis.
+- 🌱 I’m currently learning Angular 10.
+- 💞️ I’m looking to collaborate on Machine Lerning and Web Development Projects.
+- 📫 How to reach me -> LinkedIn -> satyam-pandey-09
